@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="16.0px" width="72.95px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -1.2)">
+    <pattern height="16" id="PatternID_578_1" overflow="visible" patternTransform="matrix(0.9994, 0.0, 0.0, 1.0, 0.0, 1.2)" patternUnits="userSpaceOnUse" viewBox="0 0 73 16" width="73">
+      <image height="16" width="73" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAQCAYAAABa8lLjAAAAjElEQVR42mP4b8TwfyTj3/oMCxgIgZEeSCD8x5DhwH15BoHRQCIcUBdwBtRoAKEG1Ht1BoXRQCIUUPoMH75oMRiMBhKpATUaKLgD6ocOQ8BoIBGBf+ozJIwGEjHZbjQwiKjpRgOEiDbTaKAQ0agcDRgi+nGjgUNER3c0gMAB1IB3FADUAx7JGNwOIgAA04JW3JTaj+MAAAAASUVORK5CYII="/>
+    </pattern>
+    <path d="M72.95 17.2 L0.0 17.2 0.0 1.2 72.95 1.2 72.95 17.2" style="fill:url(#PatternID_578_1)"/>
+  </g>
+</svg>
